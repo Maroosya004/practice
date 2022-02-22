@@ -1,3 +1,7 @@
+package by.practice.maria.calculator;
+
+import by.practice.maria.calculator.Calculator;
+
 public class Main {
 
     public static void main(String[] args) {

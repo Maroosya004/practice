@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 public class Person {
 
     String name;

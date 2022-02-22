@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 public class Black {
     public static void main(String[] args) {
         Chocopie chocolate1 = new Chocopie("Alenka", "black", 100, 10, 5);

@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 public class RandomNumbers {
 
     public static void main(String[] args) {

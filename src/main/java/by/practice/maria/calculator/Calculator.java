@@ -1,3 +1,5 @@
+package by.practice.maria.calculator;
+
 public class Calculator {
 
      public int sumNumbers(int first, int second) {

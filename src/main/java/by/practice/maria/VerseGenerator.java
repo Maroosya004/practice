@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 import java.util.Random;
 
 public class VerseGenerator {
@@ -21,5 +23,5 @@ public class VerseGenerator {
         String thirdColumnString = thirdColumn[thirdColumnIndex];
         String fourthColumnString = fourthColumn[fourthColumnIndex];
         System.out.println(firstColumnString + " " + secondColumnString + " " + thirdColumnString + " " + fourthColumnString);
-    }
+   }
 }

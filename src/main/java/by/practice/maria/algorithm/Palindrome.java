@@ -1,3 +1,5 @@
+package by.practice.maria.algorithm;
+
 public class Palindrome {
     public static void main(String[] args) {
         String someString = "вабрлбав";

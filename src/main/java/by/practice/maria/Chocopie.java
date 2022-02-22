@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 public class Chocopie {
     private String brand;
     private String colour;

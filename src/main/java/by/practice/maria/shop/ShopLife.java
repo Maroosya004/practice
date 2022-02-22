@@ -1,3 +1,5 @@
+package by.practice.maria.shop;
+
 import java.math.BigDecimal;
 
 public class ShopLife {

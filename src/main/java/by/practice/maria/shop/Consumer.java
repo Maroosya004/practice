@@ -1,3 +1,5 @@
+package by.practice.maria.shop;
+
 public class Consumer {
     private final String name;
     private Wallet wallet;

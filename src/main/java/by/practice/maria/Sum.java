@@ -1,3 +1,5 @@
+package by.practice.maria;
+
 public class Sum {
     public static void main(String[] args) {
         int[] sum = new int[]{2, 5, 10, 3};
